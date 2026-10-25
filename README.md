@@ -26,8 +26,8 @@ Exploratory data analysis of **7,787 Netflix movies and TV shows** using Python,
 
 | | |
 |---|---|
-| ![image alt](https://github.com/karanmagar921/NetflixDataAnalysis/edit/main/README.md#:~:text=02_movies_vs_tv.png) | ![image alt](https://github.com/karanmagar921/NetflixDataAnalysis/edit/main/README.md#:~:text=06_country_content_mix.png) |
-| ![image alt](https://github.com/karanmagar921/NetflixDataAnalysis/edit/main/README.md#:~:text=08_ratings.png) | ![image alt](https://github.com/karanmagar921/NetflixDataAnalysis/edit/main/README.md#:~:text=09_duration.png) |
+| ![image alt](https://github.com/karanmagar921/NetflixDataAnalysis/blob/main/images/02_movies_vs_tv.png?raw=true) | ![image alt](https://github.com/karanmagar921/NetflixDataAnalysis/blob/main/images/06_country_content_mix.png?raw=true) |
+| ![image alt](https://github.com/karanmagar921/NetflixDataAnalysis/blob/main/images/08_ratings.png?raw=true) | ![image alt](https://github.com/karanmagar921/NetflixDataAnalysis/blob/main/images/09_duration.png?raw=true) |
 
 ## Data Cleaning Steps
 
