@@ -43,11 +43,12 @@ Exploratory data analysis of **7,787 Netflix movies and TV shows** using Python,
 ## Project Structure
 
 ```
-netflix-project/
-├── netflix_eda.ipynb      # Main analysis notebook
-├── netflix_titles.csv     # Raw dataset
-├── netflix_cleaned.csv    # Cleaned output
-├── 01 to 10 *.png         # Exported charts
+NetflixDataAnalysis/
+├── datasets/
+│   ├── netflix_titles.csv       # Raw dataset
+│   └── netflix_cleaned.csv      # Cleaned output from the notebook
+├── images/                      # 10 exported charts used in this README
+├── NetflixDataAnalysis.ipynb    # Main analysis notebook
 ├── requirements.txt
 └── README.md
 ```
@@ -55,10 +56,10 @@ netflix-project/
 ## How to Run
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/karanmagar921/NetflixDataAnalysis.git
 cd NetflixDataAnalysis
 pip install -r requirements.txt
-jupyter notebook netflix_eda.ipynb
+jupyter notebook NetflixDataAnalysis.ipynb
 ```
 
 ## Limitations
