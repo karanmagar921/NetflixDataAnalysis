@@ -2,7 +2,7 @@
 
 Exploratory data analysis of **7,787 Netflix movies and TV shows** using Python, pandas, matplotlib and seaborn. The project cleans a messy real world dataset, answers business questions about Netflix's content strategy, and presents findings with clear visualisations.
 
-![Titles added per year](03_titles_added_per_year.png)
+![Titles added per year](https://github.com/karanmagar921/NetflixDataAnalysis/edit/main/README.md#:~:text=03_titles_added_per_year.png)
 
 ## Business Questions
 
